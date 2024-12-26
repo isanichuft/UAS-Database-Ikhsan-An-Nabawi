@@ -1,0 +1,78 @@
+{
+    "kebun_binatang": {
+        "nama": "Kebun Binatang Animalia",
+        "lokasi": "Jl. Raya Kebun Binatang No. 123, Kota Jakarta, Indonesia",
+        "deskripsi": "Kebun Binatang Animalia adalah tempat yang menyajikan berbagai macam koleksi satwa dari dalam dan luar negeri. Pengunjung dapat melihat dan belajar tentang keberagaman hayati.",
+        "jam_operasional": {
+            "senin_jumat": "08:00 - 17:00",
+            "sabtu_minggu": "08:00 - 18:00"
+        },
+        "satwa": [
+            {
+                "id": 1,
+                "nama": "Harimau Sumatera",
+                "jenis": "Mamalia",
+                "spesies": "Panthera tigris sumatrae",
+                "asal": "Sumatera, Indonesia",
+                "deskripsi": "Harimau Sumatera adalah salah satu spesies harimau yang terancam punah dan hanya dapat ditemukan di Pulau Sumatera.",
+                "habitat": "Hutan hujan tropis",
+                "makanan": "Daging",
+                "jumlah": 3,
+                "foto": "harimau_sumatera.jpg"
+            },
+            {
+                "id": 2,
+                "nama": "Gajah Asia",
+                "jenis": "Mamalia",
+                "spesies": "Elephas maximus",
+                "asal": "Asia Tenggara",
+                "deskripsi": "Gajah Asia memiliki ciri khas telinga lebih kecil dibandingkan dengan gajah Afrika dan lebih sering ditemukan di daerah hutan tropis.",
+                "habitat": "Hutan tropis dan sabana",
+                "makanan": "Tanaman, buah-buahan",
+                "jumlah": 2,
+                "foto": "gajah_asia.jpg"
+            },
+            {
+                "id": 3,
+                "nama": "Burung Cendrawasih",
+                "jenis": "Burung",
+                "spesies": "Paradisaea apoda",
+                "asal": "Papua, Indonesia",
+                "deskripsi": "Burung Cendrawasih dikenal dengan bulu yang sangat indah dan menjadi simbol keanekaragaman hayati Indonesia.",
+                "habitat": "Hutan tropis",
+                "makanan": "Buah, serangga",
+                "jumlah": 5,
+                "foto": "cendrawasih.jpg"
+            }
+        ],
+        "fasilitas": [
+            {
+                "id": 1,
+                "nama": "Kafe dan Restoran",
+                "deskripsi": "Kafe yang menyediakan berbagai makanan dan minuman segar untuk pengunjung.",
+                "jam_operasional": "09:00 - 18:00"
+            },
+            {
+                "id": 2,
+                "nama": "Taman Bermain Anak",
+                "deskripsi": "Area bermain yang aman dan menyenangkan untuk anak-anak, dengan berbagai wahana.",
+                "jam_operasional": "08:00 - 18:00"
+            },
+            {
+                "id": 3,
+                "nama": "Toilet Umum",
+                "deskripsi": "Toilet yang tersebar di berbagai titik untuk kenyamanan pengunjung.",
+                "jam_operasional": "Selalu terbuka selama jam operasional kebun binatang"
+            }
+        ],
+        "kontak": {
+            "telepon": "021-1234567",
+            "email": "info@kebunbinatanganimalia.com",
+            "website": "www.kebunbinatanganimalia.com",
+            "media_sosial": {
+                "facebook": "https://facebook.com/kebunbinatanganimalia",
+                "instagram": "https://instagram.com/kebunbinatanganimalia"
+            }
+        }
+    }
+}
